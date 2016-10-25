@@ -2,6 +2,8 @@
                   | camera_opencv_sample |
                   +----------------------+
 
+[![Build Status](https://travis-ci.org/arnaud-ramey/camera_opencv_sample.svg)](https://travis-ci.org/arnaud-ramey/camera_opencv_sample)
+
 A simple OpenCV sample for acquiring frames from a camera.
 
 License :                  see the LICENSE file.
